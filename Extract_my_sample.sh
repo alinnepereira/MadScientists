@@ -12,8 +12,8 @@
 #The VCF File ID for the Rep7Gen12 strain is YEE_0112_03_10_12. 
 
 #The command below loads vcftools program package (Version 0.1.12a) on the ASC.
-  `source /opt/asn/etc/asn-bash-profiles/modules.sh`
-  `module load vcftools/0.1.12a`
+source /opt/asn/etc/asn-bash-profiles/modules.sh
+module load vcftools/0.1.12a
 #Place VCFtools commands after this line.
 
 #Load Tabix so certain perl commands can be used to manipulate the VCF file.
