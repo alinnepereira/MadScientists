@@ -4,7 +4,7 @@
 #This VCF file did not contain indels
 #However below describes how you would remove the indels from your VCF files that you extracted with the VCF #sample ID.
 
-#I found the followoing code online to remove indels.
+#The followoing code was found online to remove indels.
 #vcftools --vcf input_file.vcf --remove-indels --recode --recode-INFO-all --out SNPs_only
 
 #The command below loads vcftools program package (Version 0.1.12a) on the ASC.
