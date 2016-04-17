@@ -1,0 +1,18 @@
+# This file was generated to look like output from vcf-compare.
+#VN 'Venn-Diagram Numbers'. 
+#VN The columns are: 
+#VN        1  .. number of sites unique to this particular combination of files
+#VN        2- .. combination of files and space-separated number, a fraction of sites in the file
+VN      32.86   rep1gen12.recode.vcf.gz (15.6%)
+VN      39.53   rep1gen06.recode.vcf.gz (20.8%)  rep1gen18.recode.vcf.gz (22.2%)
+VN      22.70   rep1gen06.recode.vcf.gz (11.9%)
+VN      55.56   rep1gen06.recode.vcf.gz (29.2%)  rep1gen12.recode.vcf.gz (26.4%)
+VN      16.83   rep1gen18.recode.vcf.gz (9.4%)
+VN      49.69   rep1gen12.recode.vcf.gz (23.6%) rep1gen18.recode.vcf.gz (27.8%)
+VN      72.39   rep1gen06.recode.vcf.gz (38.1%) rep1gen12.recode.vcf.gz (34.4%) rep1gen18.recode.vcf.gz (40.6%)
+#SN Summary Numbers. Use `grep ^SN | cut -f 2-` to extract this part.
+SN      Number of REF matches:  72.39
+SN      Number of ALT matches:  72.39
+SN      Number of REF mismatches:       0
+SN      Number of ALT mismatches:       0
+SN      Number of samples in GT comparison:     0
