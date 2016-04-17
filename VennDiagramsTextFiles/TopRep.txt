@@ -3,13 +3,13 @@
 #VN The columns are: 
 #VN        1  .. number of sites unique to this particular combination of files
 #VN        2- .. combination of files and space-separated number, a fraction of sites in the file
-VN      529.64    rep8gen12.recode.vcf.gz (16.3%)
-VN      564.76    rep8gen06.recode.vcf.gz (21.4%)  rep8gen18.recode.vcf.gz (19.7%)
-VN      222.71    repgen06.recode.vcf.gz (8.5%)
-VN      752.35    rep8gen06.recode.vcf.gz (28.6%)  rep8gen12.recode.vcf.gz (23.2%)
-VN      342.05    rep8gen18.recode.vcf.gz (11.9%)
-VN      871.69    rep8gen12.recode.vcf.gz (26.8%) rep8gen18.recode.vcf.gz (30.3%)
-VN      1094.4    rep8gen06.recode.vcf.gz (41.5%) rep8gen12.recode.vcf.gz (33.7%) rep8gen18.recode.vcf.gz (38.1%)
+VN      529.64    topgen12.recode.vcf.gz (16.3%)
+VN      564.76    topgen06.recode.vcf.gz (21.4%)  topgen18.recode.vcf.gz (19.7%)
+VN      222.71    topgen06.recode.vcf.gz (8.5%)
+VN      752.35    topgen06.recode.vcf.gz (28.6%)  topgen12.recode.vcf.gz (23.2%)
+VN      342.05    topgen18.recode.vcf.gz (11.9%)
+VN      871.69    topgen12.recode.vcf.gz (26.8%) topgen18.recode.vcf.gz (30.3%)
+VN      1094.4    topgen06.recode.vcf.gz (41.5%) topgen12.recode.vcf.gz (33.7%) topgen18.recode.vcf.gz (38.1%)
 #SN Summary Numbers. Use `grep ^SN | cut -f 2-` to extract this part.
 SN      Number of REF matches:  1094.4
 SN      Number of ALT matches:  1094.4
